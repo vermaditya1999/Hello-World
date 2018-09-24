@@ -1,5 +1,5 @@
 My Text in the New-Branch.
 This file is going to contain some random text in order to learn to use GitHub!
-My alias is Himself, which frist came up 3 years earlier in COD4 multiplayer.
+Some people call me Himself.
 I am a student from Indraprastha Institute of Information Technology.
 Nice to meet you!
